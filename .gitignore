@@ -80,3 +80,5 @@ blob-report
 *.sqlite
 *.sqlite3
 *.db-journal
+
+/app/generated/prisma
